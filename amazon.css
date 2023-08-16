@@ -1,0 +1,240 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* hover */
+.body{
+    width: 100%;
+
+    box-sizing: border-box;
+}
+.box{
+  border: 2px solid transparent;
+  padding: 1px;
+}
+.box:hover{
+  border: 1.5px solid white;
+  transition: 0.3s;
+  padding: 1px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+  a:hover {
+    color: #ddd;
+  }
+  /* Header or Navbar */
+ 
+
+  
+  .navbar {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #121d2b;
+    cursor: pointer;
+    color: #fff;
+    margin: 0 auto;
+  }
+  #Return2{
+    font-size: 13px;
+
+  }
+  
+  #sel4{
+    font-size: 13px ;
+    background-color: #121d2b;
+    color: #fff;
+    border: none;
+    margin-bottom: 20PX;
+    
+  }
+  #Return5{
+    font-size: 13px ;
+    margin-left: 30px;
+
+  }
+  #Return6{
+    font-size: 13px;
+    margin-left: 30px;
+  }
+  #Return7{
+    font-size: 13px;
+    margin-left: 30px;
+  }
+/* ============================benner=========================== */
+  .banner {
+    
+    background: #222f3d;
+    color: #fff;
+    font-size: 0.875rem;
+    height: 40px;
+  }
+  .banner-content {
+    margin: 0 auto;
+    max-width: 1280px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .panel {
+    max-width: 1280px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+  }
+  .panel span {
+    margin-right: 7px;
+  }
+  .links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 15px;
+    flex-grow: 1;
+    margin-left: 15px;
+    margin-top: 2px;
+  }
+  .links a {
+    padding: 10px 0;
+  }
+  .deals a {
+    font-size: 0.9rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  /* Hero Section */
+  .hero-section {
+    height: 400px;
+    background-image: url("images/hero-img.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+  
+  /* Footer */
+  .footer-title {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: #37475a;
+    color: #fff;
+    font-size: 0.875rem;
+    font-weight: 400;
+    height: 60px;
+  
+  }
+
+/* card======================================================= */
+#card{
+    margin-top: 220px;
+    padding: 10px;
+    background-color: rgb(215, 221, 228);
+  }
+  
+  
+
+
+#b2{
+    width: 240px;
+    border-radius: 8px;
+    height: 32px;
+    padding: 3px;
+
+    text-align: center;
+    
+}
+#p{
+    font-size: 12px;
+}
+#cards{
+   
+    padding: 10px;
+    background-color: rgb(215, 221, 228);
+}
+#all{
+    width: 30px;
+    height: 8px;
+    margin-top: 7px;
+
+}
+#f4{
+    font-size: 12px;
+    text-align: center;
+}
+#f5{
+    font-size: 12px;
+    text-align: center; 
+}
+/* ==========================cr================================ */
+#cr{
+  background-color: rgb(255, 238, 215);
+}
+#title{
+  font-size: 16px;
+}
+.footer-text{
+  background-color: #121d2b;
+}
+
+#f1{
+  margin-top: 30px;
+  font-size: 14px;
+  margin-left: 90px;
+
+}
+#f2{
+  margin-top: 30px;
+  font-size: 14px;
+  margin-left: 20px;
+}
+#f3{
+  margin-top: 30px;
+  font-size: 14px;
+}
+#f5{
+  margin-top: 30px;
+  text-align: left;
+  font-size: 14px;
+  
+}
+#back{
+  background-color: #121d2b;
+  height: 40px;
+  margin-bottom: 20px;
+
+}
+#b1{
+ margin-left: 90px;
+ font-size: 13px;
+  margin-top: 10px;
+ 
+}
+#br{
+  font-size: 12px;
+  margin-top: 10px;
+}
+#br1{
+  font-size: 11px;
+  margin-top: 10px;
+}
+#log{
+  margin-left: 450px;
+  margin-top: 10px;
+}
+#hr{
+  color: #ddd;
+  margin-top: 10px;
+}
+
+
+
+  
+
+   

@@ -1,0 +1,237 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* hover */
+.box{
+    border: 2px solid transparent;
+    padding: 4px;
+}
+.box:hover{
+    border: 1.5px solid white;
+    transition: 0.3s;
+    padding: 4px;
+}
+.nav-bar{
+    background-color: #0f1111;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.nav-box1{
+background-image: url(Colors-Amazon-Logo-removebg-preview.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+height: 60px;
+width: 118px;
+align-items: center;
+}
+.nav-box2{
+    display: flex;
+    align-items: center;
+}
+.box2-right{
+margin-left: 2px;
+align-items: center;
+}
+
+.first{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    color: #cccccc;
+    align-items: center;
+}
+.secound{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #ffffff;
+    
+}
+.box2-left i{
+margin-top: 12px;
+margin-right: 3px;
+align-items: center;
+
+}
+/* placeholder */
+/* box3 */
+
+
+.nav-box3{
+    display: flex;
+    margin-left: 30px;
+    width: 720px;
+
+    justify-content: space-evenly;
+}
+.select{
+height: 38pxpx;
+border: none;
+padding: 8px;
+width: 50px;
+background-color: #cccccc;
+border-bottom-left-radius: 4px;
+border-top-left-radius: 4px;
+}
+.input{
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+height: 38px;
+border: none;
+padding: 3px;
+width: 100%;
+}
+.icon{
+
+width:50px;
+height: 38px;
+padding: 13px;
+display: flex;
+justify-content: center;
+border-bottom-right-radius: 4px;
+border-top-right-radius: 4px;
+background-color: #f8cb68;
+
+}
+/* box4 */
+.nav-box4{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.sel4{
+    background-color: #0f1111 ;
+    color: #ffff;
+    border: none;
+    margin-right: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    
+}
+/* box5 */
+.nav-box5{
+ padding-left: 10px;
+ padding-right: 10px;
+
+padding-bottom: 4px;
+align-items: center;
+
+}
+.first5{
+  color: #ffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+.secound5{
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+/* box6 */
+.nav-box5{
+    padding-left: 10px;
+    padding-right: 10px;
+align-items: center;
+padding-bottom: 4px;
+   }
+.first6{
+     color: #ffff;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 12px;
+   }
+.secound6{
+       color: #ffff;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 14px;
+       font-weight: 700;
+   }
+   /* box7 */
+.nav-box7{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+     padding-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.nav-box7 p{
+    color: #ffff;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+      font-weight: 700;
+      padding-top: 2px;
+}
+/* --------------------NAV END---------------------------- */
+.penal{
+    height: 40px;
+    background-color: #232f3e;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panal1{
+ display: flex;
+ color: #ffffff;
+ text-align: center;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 14px;
+ padding-left:  5px;
+ padding-right: 5px;
+ padding-top: 4px;
+ padding-bottom: 4px;
+ font-weight: 700;
+}
+.panal1 i{
+    margin-top: 6px;
+    margin-right: 4px;
+    padding: 3px;
+}
+
+.penal2{
+  margin-left: 10px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  
+  padding-top: 4px;
+  padding-bottom: 4px;
+  width: 70%;
+
+}
+.penal2 p{
+    margin-left: 5px;
+}
+.penal3{
+    margin-left: 10px;
+    color: white;
+    width: 180px;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+/* ---------------------penal end---------------------- */
+.hero-section{
+  background-image: url(back1.jpg);
+  height: 400px;
+  background-position: ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* hero end------------------------------------------- */
+
+
+
+  
+
+   
